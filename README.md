@@ -3,7 +3,7 @@ sou Adiel Vinicius, um apaixonado por tecnologia!! Este repositório é uma cole
 
 𝐇𝐀𝐁𝐈𝐋𝐈𝐃𝐀𝐃𝐄𝐒
 
-💻 Linguagens: JavaScript, Python, C##, PHP...
+💻 Linguagens: JavaScript, Python, C##, PHP, Flutter...
 
 🛠️ Ferramentas e Tecnologias: Customer Relationship Management (CRM), Business Model Canvas (BMC), Solução de backup em nuvem.
 
